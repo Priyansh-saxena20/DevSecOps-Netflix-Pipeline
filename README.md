@@ -478,7 +478,7 @@ sudo yum install -y https://dl.grafana.com/enterprise/release/grafana-enterprise
 To automatically start Grafana after a reboot, enable the service:
 
 ```bash
-sudo systemctl enable grafana-server
+ sudo systemctl enable grafana-server
 ```
 
 Then, start Grafana:
